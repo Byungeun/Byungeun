@@ -30,6 +30,9 @@
 > - 인공지능교육지도사
 > - KT AICE-Associate 수료
 > - 국가기술자격 정보보안산업기사 (필기 합격, 실기 예정)
+> - CCNA SRWE(Switching, Routing, and Wireless Essentials)-certificate
+> - CCNA ITN(Introduction to Networks)-certificate
+
 <br />
 
 # 📜 외국어 
