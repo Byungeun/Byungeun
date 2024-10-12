@@ -21,10 +21,6 @@
 > - (개인) 웹 해킹 취약점 모의해킹  
 <br />
 
-# 🤗 궁극적인 목표
-> 멋있는 화이트 해커가 되는 것
-<br />
-
 # 📜 자격증 
 > - 국가공인 PCMaster(정비사)
 > - 국가공인 한자급수자격검정2급
@@ -35,12 +31,15 @@
 > - 국가기술자격 정보보안산업기사 (필기 합격, 실기 예정)
 > - CCNA SRWE(Switching, Routing, and Wireless Essentials)-certificate
 > - CCNA ITN(Introduction to Networks)-certificate
-
 <br />
 
 # 📜 외국어 
 > - 독일어(SNULT) 2급
 > - 독일어(GZ) B1
+<br />
+
+# 🤗 궁극적인 목표
+> 멋있는 화이트 해커가 되는 것
 <br />
 
 # 📞 연락처
