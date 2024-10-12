@@ -10,7 +10,7 @@
 > - (개인) 클라이언트의 얼굴을 인공지능이 만화 이미지로 변환 서비스 개발 
 > - (개인) 인공지능 꿈 해몽 서비스 개발
 > - (개인) GPTS 개발 (영어 학습, 뉴스 생성 등)
-> - (개인) Kaggle Performance Tier ‘Expert’
+> - Kaggle Performance Tier ‘Expert’
 > ## 3. '24년 : 블록체인 공부 (독학)
 > - (개인) Solana Network 기반 토큰 발행 (CAT) 및 거래소 상장 (Coinsbit, Raydium, Orca)
 > - (개인) 발행 토큰 홈페이지 개발 : https://www.catcoin.shop/
